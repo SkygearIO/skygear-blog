@@ -17,6 +17,7 @@ url: https://skygear.io/blog/
 root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+landing_link: https://skygear.io/
 
 # Directory
 source_dir: source
